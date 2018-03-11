@@ -1,0 +1,2 @@
+# componentele-mele
+basic works
